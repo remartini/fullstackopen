@@ -1,1 +1,1 @@
-# fullstackopen
+# fullstackopen.com solutions
